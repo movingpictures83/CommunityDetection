@@ -1,0 +1,2 @@
+Prefix plugins/CommunityDetection/example/
+Plugin CommunityDetection inputfile corrP.csv outputfile edges.csv
