@@ -2,7 +2,8 @@
 # Language: Python
 # Input: CSV (network)
 # Output: CSV (dendogram)
-# Tested with: PluMA 1.0, Python 3.6
+# Tested with: PluMA 1.1, Python 3.6
+# Dependency: numpy==1.16.0, networkx==2.2
 
 PluMA plugin to perform community detection using the Girvan-Newman method (Girvan and Newman, 2002).
 
